@@ -1,2 +1,0 @@
-# Arquivos específicos do cardápio
-
