@@ -62,7 +62,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
     </section>
 
     <footer>
-        <p>&copy; 2024 Garagem Hamburgueria JF. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Garagem Hamburgueria JF. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
