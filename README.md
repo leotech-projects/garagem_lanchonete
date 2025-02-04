@@ -1,20 +1,20 @@
 # Projeto FullStack
 
 # garagem_hamburgueria
-Homepage da Garagem Hamburgueria
+Homepage da Garagem Hamburgueria JF
 
 # Geração da página com a ajuda do CHATGPT:
-Aqui está a estrutura completa da **Garagem Hamburgueria** com HTML, CSS e JavaScript.  
+Aqui está a estrutura completa da **Garagem Hamburgueria JF** com HTML, CSS e JavaScript.  
 
 ---
 
-Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquivos organizados e seus conteúdos.  
+Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arquivos organizados e seus conteúdos.  
 
 ---
 
 ## **📂 Estrutura de Arquivos**
 ```
-/garagem-hamburgueria
+/garagem-hamburgueria-jf
 │── index.html        # Página principal
 │── menu.html         # Página do Cardápio
 │── about.html        # Página Sobre a Hamburgueria
@@ -34,7 +34,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Garagem Hamburgueria</title>
+    <title>Garagem Hamburgueria JF</title>
     <link rel="stylesheet" href="styles.css">
     <script defer src="script.js"></script>
 </head>
@@ -42,7 +42,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
     <header>
         <div class="logo">
             <a href="index.html">
-                <img src="images/logo.png" alt="Garagem Hamburgueria">
+                <img src="images/logo.png" alt="Garagem Hamburgueria JF">
             </a>
         </div>
         <nav>
@@ -62,7 +62,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
     </section>
 
     <footer>
-        <p>&copy; 2024 Garagem Hamburgueria. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Garagem Hamburgueria JF. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
@@ -77,14 +77,14 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cardápio - Garagem Hamburgueria</title>
+    <title>Cardápio - Garagem Hamburgueria JF</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <div class="logo">
             <a href="index.html">
-                <img src="images/logo.png" alt="Garagem Hamburgueria">
+                <img src="images/logo.png" alt="Garagem Hamburgueria JF">
             </a>
         </div>
         <nav>
@@ -116,7 +116,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
     </section>
 
     <footer>
-        <p>&copy; 2024 Garagem Hamburgueria. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Garagem Hamburgueria JF. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
@@ -131,14 +131,14 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre Nós - Garagem Hamburgueria</title>
+    <title>Sobre Nós - Garagem Hamburgueria JF</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <div class="logo">
             <a href="index.html">
-                <img src="images/logo.png" alt="Garagem Hamburgueria">
+                <img src="images/logo.png" alt="Garagem Hamburgueria JF">
             </a>
         </div>
         <nav>
@@ -153,11 +153,11 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
 
     <section class="about">
         <h1>Sobre Nós</h1>
-        <p>A Garagem Hamburgueria nasceu da paixão por hambúrgueres artesanais e ingredientes de qualidade.</p>
+        <p>A Garagem Hamburgueria JF nasceu da paixão por hambúrgueres artesanais e ingredientes de qualidade.</p>
     </section>
 
     <footer>
-        <p>&copy; 2024 Garagem Hamburgueria. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Garagem Hamburgueria JF. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
@@ -172,7 +172,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contato - Garagem Hamburgueria</title>
+    <title>Contato - Garagem Hamburgueria JF</title>
     <link rel="stylesheet" href="styles.css">
     <script defer src="script.js"></script>
 </head>
@@ -180,7 +180,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
     <header>
         <div class="logo">
             <a href="index.html">
-                <img src="images/logo.png" alt="Garagem Hamburgueria">
+                <img src="images/logo.png" alt="Garagem Hamburgueria JF">
             </a>
         </div>
         <nav>
@@ -196,11 +196,11 @@ Aqui está a **estrutura completa da Garagem Hamburgueria**, com todos os arquiv
     <section class="contact">
         <h1>Contato</h1>
         <p>📞 (11) 99999-9999</p>
-        <p>📧 contato@garagemhamburgueria.com</p>
+        <p>📧 contato@garagemhamburgueriajf.com</p>
     </section>
 
     <footer>
-        <p>&copy; 2024 Garagem Hamburgueria. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Garagem Hamburgueria jf. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
