@@ -1,27 +1,27 @@
 # Projeto FullStack
 
-# garagem_hamburgueria
-Homepage da Garagem Hamburgueria JF
+# garagem_lanchonete
+Homepage da Garagem Lanchonete JF
 
 # Geração da página com a ajuda do CHATGPT:
-Aqui está a estrutura completa da **Garagem Hamburgueria JF** com HTML, CSS e JavaScript.  
+Aqui está a estrutura completa da **Garagem Lanchonete JF** com HTML, CSS e JavaScript.  
 
 ---
 
-Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arquivos organizados e seus conteúdos.  
+Aqui está a **estrutura completa da Garagem Lanchonete JF**, com todos os arquivos organizados e seus conteúdos.  
 
 ---
 
 ## **📂 Estrutura de Arquivos**
 ```
-/garagem-hamburgueria-jf
+/garagem-Lanchonete-jf
 │── index.html        # Página principal
 │── menu.html         # Página do Cardápio
-│── about.html        # Página Sobre a Hamburgueria
+│── about.html        # Página Sobre a Lanchonete
 │── contact.html      # Página de Contato
 │── styles.css        # Arquivo de Estilos
 │── script.js         # Arquivo de Scripts
-│── /images           # Pasta para imagens (logo, hambúrgueres, banner)
+│── /images           # Pasta para imagens (logo, lanches, banner)
 │── /assets           # Outros arquivos (ícones, fontes)
 ```
 
@@ -34,7 +34,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Garagem Hamburgueria JF</title>
+    <title>Garagem Lanchonete JF</title>
     <link rel="stylesheet" href="styles.css">
     <script defer src="script.js"></script>
 </head>
@@ -42,7 +42,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
     <header>
         <div class="logo">
             <a href="index.html">
-                <img src="images/logo.png" alt="Garagem Hamburgueria JF">
+                <img src="images/logo.png" alt="Garagem Lanchonete JF">
             </a>
         </div>
         <nav>
@@ -56,13 +56,13 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
     </header>
 
     <section class="banner">
-        <h1>O Melhor Hambúrguer da Cidade!</h1>
+        <h1>Os Melhores lanches da Cidade alta!</h1>
         <p>Sabor artesanal feito com paixão.</p>
         <a href="menu.html" class="btn">Ver Cardápio</a>
     </section>
 
     <footer>
-        <p>&copy; 2025 Garagem Hamburgueria JF. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Garagem Lanchonete JF. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
@@ -77,7 +77,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cardápio - Garagem Hamburgueria JF</title>
+    <title>Cardápio - Garagem Lanchonete JF</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -101,13 +101,13 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
         <h1>Nosso Cardápio</h1>
         <div class="menu-grid">
             <div class="menu-item">
-                <img src="images/burger1.jpg" alt="Clássico da Garagem">
+                <img src="images/hotdog1.jpg" alt="Clássico da Garagem">
                 <h3>Clássico da Garagem</h3>
                 <p>Pão artesanal, carne angus, queijo cheddar e molho especial.</p>
                 <span class="price">R$ 25,00</span>
             </div>
             <div class="menu-item">
-                <img src="images/burger2.jpg" alt="BBQ Bacon">
+                <img src="images/hotdog2.jpg" alt="BBQ Bacon">
                 <h3>BBQ Bacon</h3>
                 <p>Pão brioche, carne angus, queijo prato, bacon crocante e molho BBQ.</p>
                 <span class="price">R$ 28,00</span>
@@ -116,7 +116,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
     </section>
 
     <footer>
-        <p>&copy; 2025 Garagem Hamburgueria JF. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Garagem Lanchonete JF. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
@@ -131,14 +131,14 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre Nós - Garagem Hamburgueria JF</title>
+    <title>Sobre Nós - Garagem Lanchonete JF</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <div class="logo">
             <a href="index.html">
-                <img src="images/logo.png" alt="Garagem Hamburgueria JF">
+                <img src="images/logo.png" alt="Garagem Lanchonete JF">
             </a>
         </div>
         <nav>
@@ -153,11 +153,11 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
 
     <section class="about">
         <h1>Sobre Nós</h1>
-        <p>A Garagem Hamburgueria JF nasceu da paixão por hambúrgueres artesanais e ingredientes de qualidade.</p>
+        <p>A Garagem Lanchonete JF nasceu da paixão por lanches artesanais e ingredientes de qualidade.</p>
     </section>
 
     <footer>
-        <p>&copy; 2025 Garagem Hamburgueria JF. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Garagem Lanchonete JF. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
@@ -172,7 +172,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contato - Garagem Hamburgueria JF</title>
+    <title>Contato - Garagem Lanchonete JF</title>
     <link rel="stylesheet" href="styles.css">
     <script defer src="script.js"></script>
 </head>
@@ -180,7 +180,7 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
     <header>
         <div class="logo">
             <a href="index.html">
-                <img src="images/logo.png" alt="Garagem Hamburgueria JF">
+                <img src="images/logo.png" alt="Garagem Lanchonete JF">
             </a>
         </div>
         <nav>
@@ -195,12 +195,12 @@ Aqui está a **estrutura completa da Garagem Hamburgueria JF**, com todos os arq
 
     <section class="contact">
         <h1>Contato</h1>
-        <p>📞 (11) 99999-9999</p>
+        <p>📞 (32) 99199-2575</p>
         <p>📧 contato@garagemhamburgueriajf.com</p>
     </section>
 
     <footer>
-        <p>&copy; 2025 Garagem Hamburgueria jf. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Garagem Lanchonete jf. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
@@ -248,7 +248,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ---
 
-### **🚀 Agora sua hamburgueria está completa!**
+### **🚀 Agora sua Lanchonete está completa!**
 Para hospedar, basta enviar os arquivos para **GitHub Pages, Netlify ou Vercel**.
 
 Se precisar de mais alguma funcionalidade, me avise! 😊🍔🚀
