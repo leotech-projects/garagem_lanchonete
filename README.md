@@ -196,7 +196,7 @@ Aqui está a **estrutura completa da Garagem Lanchonete JF**, com todos os arqui
     <section class="contact">
         <h1>Contato</h1>
         <p>📞 (32) 99199-2575</p>
-        <p>📧 contato@garagemhamburgueriajf.com</p>
+        <p>📧 garagemhamburgueriajf@gmail.com</p>
     </section>
 
     <footer>
