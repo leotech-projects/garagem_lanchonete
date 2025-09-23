@@ -1,6 +1,6 @@
 # Projeto FullStack
 
-# garagem_lanchonete
+# garagem-lanchonete-jf
 Homepage da Garagem Lanchonete JF
 
 # Geração da página com a ajuda do CHATGPT:
